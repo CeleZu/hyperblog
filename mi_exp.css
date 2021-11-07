@@ -1,0 +1,17 @@
+/* tabla con estilo css*/
+body {font-family: Arial, Helvetica, sans-serif;}
+
+table { font-family: «Lucida Sans Unicode», «Lucida Grande», Sans-Serif;
+font-size: 12px; margin: 45px; width: 480px; text-align: left; border-collapse: collapse; }
+
+th { font-size: 13px; font-weight: normal; padding: 8px; background: #b9c9fe;
+border-top: 4px solid #aabcfe; border-bottom: 1px solid #fff; color: #039; }
+
+td { padding: 8px; background: #e8edff; border-bottom: 1px solid #fff;
+color: #669; border-top: 1px solid transparent; }
+
+.slider {.slider { width: 95%; margin: auto; overflow: hidden;}
+.slider ul { display: flex; padding: 0; width: 400%; animation: cambio 20s infinite alternate linear;}
+.slider li { width: 100%; list-style: none;}
+.slider img { width: 100%;}
+@keyframes cambio { 0% {margin-left: 0;} 20% {margin-left: 0;} 25% {margin-left: -100%;} 45% {margin-left: -100%;} 50% {margin-left: -200%;} 70% {margin-left: -200%;} 75% {margin-left: -300%;} 100% {margin-left: -300%;}}
