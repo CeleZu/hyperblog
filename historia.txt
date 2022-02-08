@@ -2,3 +2,5 @@ hola mi nombre es celeste
 tengo 26 años 
 me gusta contar cuentos, pero no cualquier cuento
 sino cuentos sobre las personas locas con las que convivo.
+
+despues de varios intentos tratando de hacer funcionar git, lo he conseguido pero no se como.
