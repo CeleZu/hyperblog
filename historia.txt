@@ -3,5 +3,4 @@ tengo 26 años
 me gusta contar cuentos, pero no cualquier cuento
 sino cuento de gente loca con la que convivo.
 agregando parrafo para pull request
-
-agregando nuevo parrafo para segir probando el pull request
+adding a new paragraph to another pull request..
